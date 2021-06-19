@@ -5,7 +5,7 @@ module.exports.send_email = function(userEmail, time){
     service: 'gmail',
     auth: {
         user: 'jemik243patel@gmail.com',
-        pass: 'Jemik@1234'
+        pass: '********'
     }
     });
 
